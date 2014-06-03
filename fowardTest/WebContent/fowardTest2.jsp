@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<jsp:forward page='<%=request.getParameter("pageName") %>'>
-<jsp:param value="tel" name="010-1234-5678"/></jsp:forward>
+aaaa
 </body>
 </html>
